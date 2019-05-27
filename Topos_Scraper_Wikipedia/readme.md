@@ -18,7 +18,7 @@ Google is easy way to get them and quick search will you get going
 With respect to this project create a virtual environment and install all the requirements mentioned in the 
 requiremnts.txt
 
-you ciould use :- 
+You could use :- 
 pip install -r requirements.txt
 
 This is it, You are good to go.
